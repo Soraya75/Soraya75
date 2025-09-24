@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Não trabalho por enquanto<br>🌱 Estou aprendendo no momento sobre programação<br>💬 Me pergunte sobre inglês
+🌱 Estou aprendendo no momento sobre programação<br>💬 Me pergunte sobre inglês
 
 
 # 💻 Tech Stack:
